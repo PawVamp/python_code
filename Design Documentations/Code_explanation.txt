@@ -1,0 +1,17 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 Cambria;\f1\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\ri720
+
+\f0\fs24 \cf0 Explanation of the Code:\
+\pard\pardeftab720\ri720
+
+\f1 \cf0 \
+	My term project was \'93Mahjong Solitaire\'94. The point of the game is to match identical open or exposed tiles (tile that can be removed without disturbing either left or right tiles) and remove them from the board. There is two way to end the game, first is when you no longer have a open tile or when you remove all the times from the board.\
+	In order to make the \'93Mahjong solitaire\'94 I have first created the board that appears to be 3D by finding all the coordinates for each tile. I have achieve this by first creating the lowest level board through for loops, and then created the higher level board by slightly mix placing the tiles so that it will appear to be 3D.  Then, I have created the legal board through recursion. I check through the list of set tiles and then start placing two pairs of tile in the legal position.  If the tile is not placed in the legal position, it will go through the recursion and re-do the step again, until it has placed 144 tiles on the board. \
+	After I have created the board, I have created legal and click function that checks whether the tile that I desire to click is legal, and if it is indeed legal allow me to click on the tile. Then, I have created the remove function that stores the first tile and the second tile and then compare whether they are the same. If it is the same it removes the tile. \
+	Then, I have added the hint function where it runs through the entire board and finds the legal tiles and then shows the user, if they press the \'91hint\'92 button, a two pair legal tile that can be chosen and removed from.\
+	Then I have score, time and level functions to enhance the user-experience for the game. \
+}

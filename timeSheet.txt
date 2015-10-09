@@ -1,0 +1,33 @@
+Time Sheet 
+
+15112 Project Time outline
+
+11/13/2014 3:00-4:00p.m Searched for different pygame that has been already made for mahjong solitaire and observe how they structured their board (of course, without looking at their code) 
+11/15/2014 1:30-3:00p.m Meet with CA to talk about how I should approach making the board for the mahjong solitaire, played mahjong solitaire to families myself with the game and thought about how to structure the game. 
+11/16/2014 12:00-2:00p.m make the story board for the game/ Learned basic pygame 
+11/17/2014 6:00-8:00p.m Create Competitive Ananlysis & Project Proposal
+11/18/2014 3:30-5:00a.m finding images for mahjong tiles and making graphics library 
+11/18/2014 5:00-8:00p.m OH, studied pygame and learned how to bind pictures into the screen by calling them from the graphics Library that I have created 
+11/19/2014 1:30-3:00 a.m Look over Competitive Analysis, Project Proposal, Story Board 
+11/19/2014 3:30 -4:00 p.m Meeting with Shannon (mentor)
+11/19/2014 4:00-7:30 p.m: Create the board and try to put the clicking motion into the game 
+11/20/2014 3:00-4:00 p.m: make the complete board 
+11/21/2014 4:00-5:00 p.m: make the complete board
+11/22/2014 2:00-6:00 p.m: make sure the board is randomly drawn. (Tiles are all drawn randomly, with no repetition occurring)
+11/22/2014 8:00 p.m - 3:00 a.m: fix the bug that was found with randomization & finished making the board 
+11/23/2014 2:00-8:00p.m: make the tiles disappear at the legal places, created hint button
+11/23/2014 10:00 p.m - 6:00 a.m: Make the hint function that tells the players the next possible move when the button is clicked 
+11/24/2014 10:00p.m - 2:00a.m: create Game Over function, timer Function, working on the 
+score function (having a bit of problem at the moment) 
+11/24/2014 3:00-4:00 p.m: finding problem on the score function 
+11/26/2014 10:00 p.m - 11:00p.m: worked on backtracking
+11/27/2014 5:00 a.m - 8:00 a.m: continued working on backtracking
+11/28/2014 4:00a.m - 7:00a.m: worked on making the board legal (no same tile is overlapping each other)
+11/29/2014 10:00-11:30 p.m: continued working on making the board legal
+11/30/2014 1:00-3:00 p.m: fixed the bug, made the board legal, adding shuffle function and opening page 
+12/1/2014 6:00-8:00 p.m: Meeting with CA, input for possible improvement on the user-Interface, work on to create different level
+12/1/2014 10:00p.m - 1:30 a.m: Create different levels, start, hint button, Game Over function and more 
+12/2/2014: 4:00 - 8:30 p.m: Make sure all the buttons are working and running. Found a bug with board generation, start working on the bug.
+12/2/2014: 11:00p.m - 3:00 a.m: Fix the bug, polish more on the project. Work on the documentation needed for tomorrow’s deadline. 
+12/3/2014 10-12:00 a.m: Make time function, make the demo video for the code, fix style 
+12/4/2014 9:00 - 11:00 a.m: Final check 
